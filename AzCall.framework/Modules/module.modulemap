@@ -1,0 +1,11 @@
+framework module AzCall {
+  umbrella header "AzCall.h"
+
+  export *
+  module * { export * }
+}
+
+module AzCall.Swift {
+    header "AzCall-Swift.h"
+    requires objc
+}
