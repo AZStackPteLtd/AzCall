@@ -206,7 +206,7 @@ AzCallManager.shared.showFreeSwitchCall(true, completionPresent: nil)
 
 ## Support, Bugs, Issue
 
-Feel free to submit bugs, issues, or your features [HERE](/issues)
+Feel free to submit bugs, issues, or your features [HERE](https://github.com/AZStackPteLtd/AzCall/issues)
 
 Or contact us: [info@azstack.co](mailto:info@azstack.co)
 
