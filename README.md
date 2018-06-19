@@ -198,10 +198,16 @@ On client, we have very easy way to start a GSM call with 1 line of code:
 AzCallManager.shared.showFreeSwitchCall(true, completionPresent: nil)
 ```
 
+## TODO:
+
+- Unit test
+- UI-Test
+- Localization. At this moment, AzCall using a setting language to show. You can view/modify it via `AzCallMessage`
+
 ## Support, Bugs, Issue
 
-Feel free to submit bugs, issue, or your require feature [HERE](/issues)
+Feel free to submit bugs, issues, or your features [HERE](/issues)
 
-Or contact with AzStack via: [info@azstack.co](mailto:info@azstack.co)
+Or contact us: [info@azstack.co](mailto:info@azstack.co)
 
 For more informations, please visit our website: [AzStack.Com](https://azstack.com)
